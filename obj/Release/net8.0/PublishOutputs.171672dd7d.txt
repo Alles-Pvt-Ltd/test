@@ -1,7 +1,0 @@
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\Test2.exe
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\appsettings.json
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\Test2.dll
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\Test2.deps.json
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\Test2.runtimeconfig.json
-D:\Alles_Important\Projects\Test2\obj\Release\net8.0\PubTmp\Out\Test2.pdb
