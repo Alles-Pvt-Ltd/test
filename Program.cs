@@ -24,7 +24,7 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 });
 
-app.UseHttpsRedirection();
+//app.UseHttpsRedirection();
 app.Run();
 
 internal record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
